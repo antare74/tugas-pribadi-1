@@ -1,0 +1,31 @@
+body{
+  background-color:  #2ecc71 ;
+}
+.header{
+  background-color: #a569bd  ;
+  text-align: center;
+  border-style: hidden;
+  border-radius: 10px;
+  color: #f2f3f4;
+  padding: 10px;
+  margin: 10px;
+  font-family: fantasy;
+}
+.header img{
+  width: 90px;
+  height: 90px;
+  border-style;none;
+  border-radius: 10px;
+  float: left;
+}
+.menu{
+  font-family: fantasy;
+  float: left;
+  border-style: dotted;
+  margin: 10px;
+  background-color: white;
+  border-radius: 10px
+}
+.menu li{
+  list-style-type: none;
+}
